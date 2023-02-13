@@ -5,7 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prosta_baha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/baha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baha" height="30" width="40" /></a>
 </p>
 
