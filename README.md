@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bahram</h1>
 <h3 align="center">.Net developer</h3>
 
-- 🔭 I’m currently working on **...**
-
-- 🌱 I’m currently learning **c#, .Net**
-
-- 💬 Ask me about **c# core**
-
 - 📫 How to reach me **baxram0299@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/prosta_baha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prosta_baha" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prosta_baha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/baha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baha" height="30" width="40" /></a>
 </p>
 
